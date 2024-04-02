@@ -1,0 +1,15 @@
+.services {
+    background-color: beige;
+    text-align: center;
+}
+
+i {
+    width: 40px;
+}
+
+
+.service {
+    display: inline-block;
+    width: 25%;
+    background-color: beige;
+}
